@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            Borja725/practica_7.1:latest  
-            ghcr.io/Borja725/practica_7.1:latest
+            borja725/practica_7.1:latest  
+            ghcr.io/borja725/practica_7.1:latest
